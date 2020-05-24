@@ -1,9 +1,0 @@
-Matrícula: 24.05.2020
-Tempo de curso: 60 dias
-
-Conteúdo:
-1- Lógica de programação essencial [4 horas]
-2- Introdução ao git e controle de versões [2 horas]
-3- Introdução ao github e comandos para trabalhar em equipe [4 horas]
-4- Criando um repositório para projetos[4 horas]
-5- Fundamentos de arquitetura de sistemas [7horas]
